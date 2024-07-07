@@ -1,5 +1,26 @@
+# main graphcast package
 https://github.com/joaoprocopio/graphcast/archive/master.zip
+# jupyter stuff
 ipykernel
 ipywidgets
+# google cloud
 google-cloud
 google-cloud-storage
+# graphcast dependencies
+cartopy
+chex
+colabtools
+dask
+dm-haiku
+dm-tree
+jax
+jraph
+matplotlib
+numpy
+pandas
+rtree
+scipy
+trimesh
+typing_extensions
+xarray
+cftime # xarray hidden sub-depedency
